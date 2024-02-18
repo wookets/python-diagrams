@@ -2,6 +2,18 @@
 
 Sandbox for showing python diagram capabilities with commonly found architecture. 
 
+## Install 
+
+```bash
+
+poetry shell
+poetry install 
+
+
+```
+
+[GraphViz](https://formulae.brew.sh/formula/graphviz) will also need to be installed.
+
 ## Usage
 
 ```bash
