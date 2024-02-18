@@ -18,3 +18,7 @@ A PNG image of the diagram will be created next to the diagram script invoked.
 ### K8s Meilisearch 
 
 ![K8s Meilisearch](k8s-meilisearch.png)
+
+### Web Service 
+
+![Web Service](quick-start.png)
