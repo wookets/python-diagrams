@@ -2,18 +2,6 @@
 
 Sandbox for showing python diagram capabilities with commonly found architecture. 
 
-## Install 
-
-```bash
-
-poetry shell
-poetry install 
-
-
-```
-
-[GraphViz](https://formulae.brew.sh/formula/graphviz) will also need to be installed.
-
 ## Usage
 
 ```bash
@@ -24,6 +12,15 @@ python quick-start.py
 ```
 
 A PNG image of the diagram will be created next to the diagram script invoked.
+
+## Install 
+
+```bash
+poetry shell
+poetry install 
+```
+
+[GraphViz](https://formulae.brew.sh/formula/graphviz) will also need to be installed.
 
 ## Examples
 
